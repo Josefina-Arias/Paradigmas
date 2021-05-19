@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: Catch it
 PURPOSE OF PROJECT:
-VERSION or DATE:
+VERSION or DATE: 19/05/2021
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Josefina Arias, Eduwin Rojas y Javier Urrego.
 USER INSTRUCTIONS:
