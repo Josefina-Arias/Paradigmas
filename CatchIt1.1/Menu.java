@@ -12,7 +12,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 public class Menu extends World
 {
-    Flecha flecha = new Flecha();
+    private Flecha flecha = new Flecha();
     private int opcion = 0;
     //GreenfootSound myMusic= new GreenfootSound("song.mpeg");
     /**
